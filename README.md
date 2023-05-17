@@ -1,2 +1,3 @@
-# basic_tutorial
-Basic tutorial of Xsuite
+# Xsuite Basic Tutorials
+
+Some Jupyter notebooks that illustrate how to apply Xsuite.
